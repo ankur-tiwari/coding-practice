@@ -1,3 +1,4 @@
+```
 let str = 'a4b11c7s3g1';
 let result = '';
 let temp = '';
@@ -18,3 +19,4 @@ if (temp) {
 }
 
 console.log(result);
+```
